@@ -1,5 +1,3 @@
-#lex_auth_012693780491968512136
-
 def make_amount(rupees_to_make,no_of_five,no_of_one):
     five_needed=0
     one_needed=0
@@ -26,10 +24,6 @@ def make_amount(rupees_to_make,no_of_five,no_of_one):
 
     # Use the below given print statements to display the output
     # Also, do not modify them for verification to work
-
-    #print("No. of Five needed :", five_needed)
-    #print("No. of One needed  :", one_needed)
-    #print(-1)
 
     if(flag):
         print("No. of Five needed :", five_needed)
