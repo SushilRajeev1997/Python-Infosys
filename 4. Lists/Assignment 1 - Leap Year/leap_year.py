@@ -1,5 +1,3 @@
-#lex_auth_012693797166096384149
-
 def find_leap_years(given_year):
 
     # Write your logic here
